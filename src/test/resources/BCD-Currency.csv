@@ -1,0 +1,168 @@
+CurrencyCode,Name,DisplayName,Priority,CountryCode,cy
+AED,United Arab Emirates Dirham AED,United Arab Emirates Dirham - AED,,AE,Dirham yr Emiraethau Arabaidd Unedig
+AFN,Afghanistan Afghani AFN,Afghanistan Afghani - AFN,,AF,Afghani Afghanistan
+ALL,Albania Lek ALL,Albania Lek - ALL,,AL,Lek Albania
+AMD,Armenia Dram AMD,Armenia Dram - AMD,,AM,Dram Armenia
+ANG,Netherlands Antilles Guilder ANG,Netherlands Antilles Guilder - ANG,,CW,Guilder Antilles yr Iseldiroedd
+AOA,Angola Kwanza AOA,Angola Kwanza - AOA,,AO,Kwanza Angola
+ARS,Argentina Peso ARS,Argentina Peso - ARS,,AR,Pesor Ariannin
+AUD,Australia Dollar AUD $,Australia Dollar - AUD,3,AU,Doler Awstralia
+AWG,Aruba Florin AWG,Aruba Florin - AWG,,AW,Fflorin Arwba
+AZM,Azerbaijani manat AZM,Azerbaijani manat - AZM,,AZ,Manat Azerbaijan
+AZN,Azerbaijan Manat AZN,Azerbaijan Manat - AZN,,AZ,Manat Azerbaijan
+BAM,Bosnia and Herzegovina Convertible Mark BAM,Bosnia and Herzegovina Convertible Mark - BAM,,BA,Marc Bosnia a Herzegovina
+BBD,Barbados Dollar BBD,Barbados Dollar - BBD,,BB,Doler Barbados
+BDT,Bangladesh Taka BDT,Bangladesh Taka - BDT,,BD,Taka Bangladesh
+BGN,Bulgaria Lev BGN,Bulgaria Lev - BGN,,BG,Lev Bwlgaria
+BHD,Bahrain Dinar BHD,Bahrain Dinar - BHD,,BH,Dinar Bahrain
+BIF,Burundi Franc BIF,Burundi Franc - BIF,,BI,Ffranc Burundi
+BMD,Bermuda Dollar BMD,Bermuda Dollar - BMD,,BM,Doler Bermuda
+BND,Brunei Darussalam Dollar BND,Brunei Darussalam Dollar - BND,,BN,Doler Brunei Darussalam
+BOB,Bolivia Boliviano BOB,Bolivia Boliviano - BOB,,BO,Boliviano Bolivia
+BRL,Brazil Real BRL,Brazil Real - BRL,,BR,Real Brasil
+BSD,Bahamas Dollar BSD,Bahamas Dollar - BSD,,BS,Doler y Bahamas
+BTN,Bhutan Ngultrum BTN,Bhutan Ngultrum - BTN,,BT,Ngultrum Bhutan
+BWP,Botswana Pula BWP,Botswana Pula - BWP,,BW,Pula Botswana
+BYR,Belarus Ruble BYR,Belarus Ruble - BYR,,BY,Rwbl Belarus
+BZD,Belize Dollar BZD,Belize Dollar - BZD,,BZ,Doler Belize
+CAD,Canada Dollar CAD $,Canada Dollar - CAD,90,CA,Doler Canada
+CDF,Congo Franc CDF,Congo Franc - CDF,,CG,Ffranc Congo
+CHF,Switzerland Franc CHF,Switzerland Franc - CHF,,CH,Ffranc y Swistir
+CLP,Chile Peso CLP,Chile Peso - CLP,,CL,Peso Chile
+CNY,China Yuan Renminbi CNY,China Yuan Renminbi - CNY,3,CN,Iwan Renminbi Tsieina
+COP,Colombia Peso COP,Colombia Peso - COP,,CO,Peso Colombia
+CRC,Costa Rica Colon CRC,Costa Rica Colon - CRC,,CR,Colon Costa Rica
+CUC,Cuba Convertible Peso CUC,Cuba Convertible Peso - CUC,,NULL,Peso Cyfnewidiol Cuba
+CUP,Cuba Peso CUP,Cuba Peso - CUP,,"	CU","	Peso Cuba"
+CVE,Cape Verde Escudo CVE,Cape Verde Escudo - CVE,,CV,Esgwdo Cabo Verde
+CZK,Czech Republic Koruna CZK,Czech Republic Koruna - CZK,,CZ,Koruna y Weriniaeth Tsiec
+DEM,Deutsche Mark DEM,Deutsche Mark - DEM,,DE,Marc yr Almaen
+DJF,Djibouti Franc DJF,Djibouti Franc - DJF,,DJ,Ffranc Djibouti
+DKK,Denmark Krone DKK,Denmark Krone - DKK,,DK,Krone Denmarc
+DOP,Dominican Republic Peso DOP,Dominican Republic Peso - DOP,,DO,Peso Gweriniaeth Dominica
+DZD,Algeria Dinar DZD,Algeria Dinar - DZD,,DZ,Dinar Algeria
+EGP,Egypt Pound EGP,Egypt Pound - EGP,,EG,Punt yr Aifft
+ERN,Eritrea Nakfa ERN,Eritrea Nakfa - ERN,,ER,Nakfa Eritrea
+ETB,Ethiopia Birr ETB,Ethiopia Birr - ETB,,ET,Birr Ethiopia
+EUR,Euro EUR ,Euro - EUR,2,NULL,Ewro
+FJD,Fiji Dollar FJD,Fiji Dollar - FJD,,FJ,Doler Ffiji
+FKP,Falkland Islands (Malvinas) Pound FKP,Falkland Islands (Malvinas) Pound - FKP,,FK,Punt Ynysoedd y Falkland (Malvinas)
+GBP,United Kingdom £,British Pound - GBP,1,UK,Punt y Deyrnas Unedig
+GEL,Georgia Lari GEL,Georgia Lari - GEL,,GE,Lari Georgia
+GGP,Guernsey Pound GGP,Guernsey Pound - GGP,,GG,Punt Guernsey
+GHS,Ghana Cedi GHS,Ghana Cedi - GHS,,GH,Cedi Ghana
+GIP,Gibraltar Pound GIP,Gibraltar Pound - GIP,,GI,Punt Gibraltar
+GMD,Gambia Dalasi GMD,Gambia Dalasi - GMD,,GM,Dalasi Gambia
+GNF,Guinea Franc GNF,Guinea Franc - GNF,,GN,Franc Guinée
+GTQ,Guatemala Quetzal GTQ,Guatemala Quetzal - GTQ,,GT,Cwetsal Guatemala
+GYD,Guyana Dollar GYD,Guyana Dollar - GYD,,GY,Doler Guyana
+HKD,Hong Kong Dollar HKD,Hong Kong Dollar - HKD,3,HK,Doler Hong Kong
+HNL,Honduras Lempira HNL,Honduras Lempira - HNL,,HN,Lempira Honduras
+HRK,Croatia Kuna HRK,Croatia Kuna - HRK,,HR,Kuna Croatia
+HTG,Haiti Gourde HTG,Haiti Gourde - HTG,,HT,Gourde Haiti
+HUF,Hungary Forint HUF,Hungary Forint - HUF,,HU,Fforint Hwngari
+IDR,Indonesia Rupiah IDR,Indonesia Rupiah - IDR,,ID,Rwpïa Indonesia
+ILS,Israel New Sheqel ILS,Israel New Sheqel - ILS,,IL,Sicl Newydd Israel
+IMP,Isle of Man Pound IMP,Isle of Man Pound - IMP,,IM,Punt Ynys Manaw
+INR,India Rupee INR,India Rupee - INR,,IN,Rwpî India
+IQD,Iraq Dinar IQD,Iraq Dinar - IQD,,IQ,Dinar Irac
+IRR,Iran Rial IRR,Iran Rial - IRR,,IR,Rial Iran
+ISK,Iceland Krona ISK,Iceland Krona - ISK,,IS,Krona Gwlad yr Iâ
+JEP,Jersey Pound JEP,Jersey Pound - JEP,,JE,Punt Jersey
+JMD,Jamaica Dollar JMD,Jamaica Dollar - JMD,,JM,Doler Jamaica
+JOD,Jordan Dinar JOD,Jordan Dinar - JOD,,JO,Dinar Gwlad yr Iorddonen
+JPY,Japan Yen JPY,Japan Yen - JPY,3,JP,Ien Japan
+KES,Kenya Shilling KES,Kenya Shilling - KES,,KE,Swllt Kenya
+KGS,Kyrgyzstan Som KGS,Kyrgyzstan Som - KGS,,KG,Som Kyrgyzstan
+KHR,Cambodia Riel KHR,Cambodia Riel - KHR,,KH,Riel Cambodia
+KMF,Comoros Franc KMF,Comoros Franc - KMF,,KM,Ffranc y Comoros
+KPW,Korea (North) Won KPW,Korea (North) Won - KPW,,KP,Won (Gogledd) Corea
+KRW,Korea (South) Won KRW,Korea (South) Won - KRW,,KR,Won (De) Corea
+KWD,Kuwait Dinar KWD,Kuwait Dinar - KWD,,KW,Dinar Kuwait
+KYD,Cayman Islands Dollar KYD,Cayman Islands Dollar - KYD,,KY,Doler Ynysoedd Caiman
+KZT,Kazakhstan Tenge KZT,Kazakhstan Tenge - KZT,,KZ,Tenge Kazakhstan
+LAK,Laos Kip LAK,Laos Kip - LAK,,LA,Kip Laos
+LBP,Lebanon Pound LBP,Lebanon Pound - LBP,,LB,Punt Libanus
+LKR,Sri Lanka Rupee LKR,Sri Lanka Rupee - LKR,,LK,Rwpî Sri Lanka
+LRD,Liberia Dollar LRD,Liberia Dollar - LRD,,LR,Doler Liberia
+LSL,Lesotho Loti LSL,Lesotho Loti - LSL,,LS,Loti Lesotho
+LTL,Lithuania Litas LTL,Lithuania Litas - LTL,,LT,Litas Lithuania
+LVL,Latvia Lat LVL,Latvia Lat - LVL,,LV,Lat Latvia
+LYD,Libya Dinar LYD,Libya Dinar - LYD,,LY,Dinar Libya
+MAD,Morocco Dirham MAD,Morocco Dirham - MAD,,MA,Dirham Moroco
+MDL,Moldova Leu MDL,Moldova Leu - MDL,,MD,Leu Moldova
+MGA,Madagascar Ariary MGA,Madagascar Ariary - MGA,,MG,Ariary Malagasi
+MKD,Macedonia Denar MKD,Macedonia Denar - MKD,,MK,Denar Macedonia
+MMK,Myanmar Kyat MMK,Myanmar Kyat - MMK,,MM,Kyat Myanmar
+MNT,Mongolia Tugrik MNT,Mongolia Tugrik - MNT,,MN,Tögrög Mongolia
+MOP,Macau Pataca MOP,Macau Pataca - MOP,,MO,Pataca Macau
+MRO,Mauritania Ouguiya MRO,Mauritania Ouguiya - MRO,,MR,Ouguiya Mauritania
+MUR,Mauritius Rupee MUR,Mauritius Rupee - MUR,,MU,Rwpî Mauritius
+MVR,Maldives Rufiyaa MVR,Maldives Rufiyaa - MVR,,MV,Rufiyaa y Maldives
+MWK,Malawi Kwacha MWK,Malawi Kwacha - MWK,,MW,Kwacha Malawi
+MXN,Mexico Peso MXN,Mexico Peso - MXN,,MX,Peso Mecsico
+MYR,Malaysia Ringgit MYR,Malaysia Ringgit - MYR,,MY,Ringgit Malaysia
+MZN,Mozambique Metical MZN,Mozambique Metical - MZN,,MZ,Metical Moçambique
+NAD,Namibia Dollar NAD,Namibia Dollar - NAD,,NA,Doler Namibia
+NGN,Nigeria Naira NGN,Nigeria Naira - NGN,,NG,Naira Nigeria
+NIO,Nicaragua Cordoba NIO,Nicaragua Cordoba - NIO,,NI,Cordoba Nicaragua
+NOK,Norway Krone NOK,Norway Krone - NOK,,NO,Krone Norwy
+NPR,Nepal Rupee NPR,Nepal Rupee - NPR,,NP,Rwpî Nepal
+NZD,New Zealand Dollar NZD $,New Zealand Dollar - NZD,3,NZ,Doler Seland Newydd
+OMR,Oman Rial OMR,Oman Rial - OMR,,OM,Rial Oman
+PAB,Panama Balboa PAB,Panama Balboa - PAB,,PA,Balboa Panamá
+PEN,Peru Nuevo Sol PEN,Peru Nuevo Sol - PEN,,PE,Nuevo Sol Periw
+PGK,Papua New Guinea Kina PGK,Papua New Guinea Kina - PGK,,PG,Kina Papua Guinea Newydd
+PHP,Philippines Peso PHP,Philippines Peso - PHP,,PH,Peso Pilipinas
+PKR,Pakistan Rupee PKR,Pakistan Rupee - PKR,,PK,Rwpî Pakistan
+PLN,Poland Zloty PLN,Poland Zloty - PLN,,PL,Sloti Gwlad Pwyl
+PYG,Paraguay Guarani PYG,Paraguay Guarani - PYG,,PY,Gwarani Paraguay
+QAR,Qatar Riyal QAR,Qatar Riyal - QAR,,QA,Riyal Qatar
+RON,Romania New Leu RON,Romania New Leu - RON,,RO,Leu Newydd România
+RSD,Serbia Dinar RSD,Serbia Dinar - RSD,,XS,Dinar Serbia
+RUB,Russia Ruble RUB,Russia Ruble - RUB,3,RU,Rwbl Rwsia
+RWF,Rwanda Franc RWF,Rwanda Franc - RWF,,RW,Ffranc Rwanda
+SAR,Saudi Arabia Riyal SAR,Saudi Arabia Riyal - SAR,,SA,Riyal Saudi Arabia
+SBD,Solomon Islands Dollar SBD,Solomon Islands Dollar - SBD,,SB,Doler Ynysoedd Solomon
+SCR,Seychelles Rupee SCR,Seychelles Rupee - SCR,,SC,Rwpî Seychelles
+SDG,Sudan Pound SDG,Sudan Pound - SDG,,SD,Punt Swdan
+SEK,Sweden Krona SEK,Sweden Krona - SEK,,SE,Krona Sweden
+SGD,Singapore Dollar SGD,Singapore Dollar - SGD,,SG,Doler Singapôr
+SHP,Saint Helena Pound SHP,Saint Helena Pound - SHP,,SH,Punt Saint Helena
+SLL,Sierra Leone Leone SLL,Sierra Leone Leone - SLL,,SL,Leone Sierra Leone
+SOS,Somalia Shilling SOS,Somalia Shilling - SOS,,SO,Swllt Somalia
+SRD,Suriname Dollar SRD,Suriname Dollar - SRD,,SR,Doler Suriname
+SSP,South Sudan Pound SSP,South Sudan Pound - SSP,,SS,Punt De Swdan
+STD,Sao Tome and Principe Dobra STD,Sao Tome and Principe Dobra - STD,,ST,Dobra São Tomé a Príncipe
+SVC,El Salvador Colon SVC,El Salvador Colon - SVC,,SV,Colon El Salvador
+SYP,Syria Pound SYP,Syria Pound - SYP,,SY,Punt Syria
+SZL,Swaziland Lilangeni SZL,Swaziland Lilangeni - SZL,,SZ,Lilangeni Eswatini
+THB,Thailand Baht THB,Thailand Baht - THB,,TH,Baht Gwlad Thai
+TJS,Tajikistan Somoni TJS,Tajikistan Somoni - TJS,,TJ,Somoni Tajikistan
+TMT,Turkmenistan New Manat TMT,Turkmenistan New Manat - TMT,,TM,Manat Newydd Turkmenistan
+TND,Tunisia Dinar TND,Tunisia Dinar - TND,,TN,Dinar Tunisia
+TOP,Tonga Pa'anga TOP,Tonga Pa'anga - TOP,,TO,Paanga Tonga
+TRY,Turkey Lira TRY,Turkey Lira - TRY,,TR,Lira Twrci
+TTD,Trinidad and Tobago Dollar TTD,Trinidad and Tobago Dollar - TTD,,TT,Doler Trinidad a Thobago
+TVD,Tuvalu Dollar TVD,Tuvalu Dollar - TVD,,TV,Doler Tuvalu
+TWD,Taiwan New Dollar TWD,Taiwan New Dollar - TWD,,TW,Doler Taiwan
+TZS,Tanzania Shilling TZS,Tanzania Shilling - TZS,,TZ,Swllt Tanzania
+UAH,Ukraine Hryvnia UAH,Ukraine Hryvnia - UAH,,UA,Hryvnia Ukrain
+UGX,Uganda Shilling UGX,Uganda Shilling - UGX,,UG,Swllt Uganda
+USD,United States Dollar USD $,United States Dollar - USD,100,US,Doler yr Unol Daleithiau
+UYU,Uruguay Peso UYU,Uruguay Peso - UYU,,UY,Peso Uruguay
+UZS,Uzbekistan Som UZS,Uzbekistan Som - UZS,,UZ,Som Uzbekistan
+VEF,Venezuela Bolivar VEF,Venezuela Bolivar - VEF,,VE,Bolifar Venezuela
+VND,Vietnam Dong VND,Vietnam Dong - VND,,VN,Dong Viet Nam
+VUV,Vanuatu Vatu VUV,Vanuatu Vatu - VUV,,VU,Vatu Vanuatu
+WST,Samoa Tala WST,Samoa Tala - WST,,WS,Tala Samoa
+XAF,CFA Franc BEAC XAF,CFA Franc BEAC - XAF,,CM,Ffranc CFA BEAC
+XAG,Silver Ounce XAG,Silver Ounce - XAG,,NULL,Owns Arian
+XAU,Gold Ounce XAU,Gold Ounce - XAU,,NULL,Owns Aur
+XCD,East Caribbean Dollar XCD,East Caribbean Dollar - XCD,,AG,Doler Dwyrain y Caribî
+XOF,CFA Franc BCEAO XOF,CFA Franc BCEAO - XOF,,BJ,Ffranc CFA BCEAO
+XPF,CFP Franc XPF,CFP Franc - XPF,,PF,Ffranc CFP
+YER,Yemen Rial YER,Yemen Rial - YER,,YE,Rial Yemen
+ZAR,South Africa Rand ZAR,South Africa Rand - ZAR,,ZA,Rand De Affrica
+ZMW,Zambia Kwacha ZMW,Zambia Kwacha - ZMW,,ZM,Kwacha Zambia
+ZWD,Zimbabwe Dollar ZWD,Zimbabwe Dollar - ZWD,,ZW ,Zimbabwe
